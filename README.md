@@ -12,7 +12,6 @@
 ## Licence
 
 <img align="left" alt="MIT Licence" width="200px" src="https://img.shields.io/github/license/abinashstack/Portfolio?style=for-the-badge" />
-<br/>
 
 
 
