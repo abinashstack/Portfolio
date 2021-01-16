@@ -6,7 +6,7 @@
 
 ## Tools and Languages Used
 
-*Javascript,HTML,SASS,CSS AND BOOTSTRAP
+*Javascript,HTML,CSS AND BOOTSTRAP
 * Tools - Visual-studio-code,Gitbash
 
 ## Licence
